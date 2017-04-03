@@ -79,6 +79,7 @@ namespace PBD {
 		LIBARDOUR_API extern DebugBits BackendThreads;
 		LIBARDOUR_API extern DebugBits BackendPorts;
 		LIBARDOUR_API extern DebugBits VSTCallbacks;
+		LIBARDOUR_API extern DebugBits DiskIO;
 		LIBARDOUR_API extern DebugBits FaderPort;
 		LIBARDOUR_API extern DebugBits CC121;
 		LIBARDOUR_API extern DebugBits VCA;

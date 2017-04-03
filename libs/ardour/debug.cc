@@ -76,6 +76,7 @@ PBD::DebugBits PBD::DEBUG::BackendTiming = PBD::new_debug_bit ("backendtiming");
 PBD::DebugBits PBD::DEBUG::BackendThreads = PBD::new_debug_bit ("backendthreads");
 PBD::DebugBits PBD::DEBUG::BackendPorts = PBD::new_debug_bit ("backendports");
 PBD::DebugBits PBD::DEBUG::VSTCallbacks = PBD::new_debug_bit ("vstcallbacks");
+PBD::DebugBits PBD::DEBUG::DiskIO = PBD::new_debug_bit ("diskio");
 PBD::DebugBits PBD::DEBUG::FaderPort = PBD::new_debug_bit ("faderport");
 PBD::DebugBits PBD::DEBUG::CC121 = PBD::new_debug_bit ("cc121");
 PBD::DebugBits PBD::DEBUG::VCA = PBD::new_debug_bit ("vca");
